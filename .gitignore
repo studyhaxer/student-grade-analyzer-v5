@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Student data file
+students.json
+
+# VS Code settings (optional)
+.vscode/
+
+# Environment files (future projects)
+.env
+
+# Virtual environments (future projects)
+venv/
+.venv/
